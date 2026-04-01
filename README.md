@@ -1,2 +1,16 @@
-# TaskFlow
-TaskFlow Pro is a powerful task and project management web app that helps users organize tasks, manage projects, track progress, and boost productivity. With a clean UI and modular structure, it simulates a real-world scalable application with multiple components and features.
+# 🚀 TaskFlow Pro
+
+TaskFlow Pro is a modular task and project management application designed to simulate a real-world scalable system.
+
+## ✨ Features
+
+* Task management
+* Project organization
+* Modular architecture
+* Clean UI
+
+## 🛠️ Tech
+
+* HTML
+* CSS
+* JavaScript
